@@ -11,7 +11,7 @@ The **Employee Management System (EMS)** is a full-stack web application built t
 - Spring Boot
 - Spring Data JPA
 - Maven
-- MySQL
+- PostgreSQL
 
 ### 🎨 Frontend
 - React
