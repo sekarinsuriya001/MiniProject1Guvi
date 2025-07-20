@@ -166,3 +166,5 @@ public/
 The **Employee Management System** is a production-ready application tailored for modern HR needs. Built with a modular and scalable approach, EMS ensures ease of maintenance, extension, and deployment.
 
 > This project is an excellent foundation for expanding into more complex systems, such as performance tracking, leave management, or attendance systems.
+
+Frontend Contents available in https://github.com/sekarinsuriya001/MiniProject1GuviFrontend
